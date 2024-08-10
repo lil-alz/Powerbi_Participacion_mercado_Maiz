@@ -82,7 +82,11 @@ Esta visualización facilita la comparación directa entre proveedores y destaca
 ![image](https://github.com/user-attachments/assets/01e2f116-8d8a-471d-bf46-a1646b8f033d)
 
 ### P8. ¿CÓMO HA SIDO LA EVOLUCIÓN DE LOS PEDIDOS TIPO CONTADO Y PEDIDOS TIPO CRÉDITO EN RELACIÓN AL TOTAL DE PEDIDOS POR TRIMESTRES A PARTIR DEL 2024?
+El gráfico utiliza líneas para visualizar la evolución de los pedidos tipo contado, pedidos tipo crédito y el total de pedidos por trimestre desde 2024.
 
+###### Pedidos Contado: Presentan una tendencia fluctuante con varios trimestres sin pedidos, alcanzando un pico de 3 pedidos en el 2025-4.
+###### Pedidos Crédito: Varían principalmente debido a los cambios en los pedidos contado cerrando el 2026-4 en alza.
+###### Total de Pedidos: Se mantienen constantes en 9 pedidos por trimestre, mostrando estabilidad.
 
 ![image](https://github.com/user-attachments/assets/127f10e9-2839-4b7e-a661-bf84debe3973)
 
