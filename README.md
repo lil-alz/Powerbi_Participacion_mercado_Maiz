@@ -8,7 +8,7 @@ Se creó una base de datos en SQL para almacenar los datos de importación de ma
 # Modelado de la Base de Datos
 Se elaboró un diagrama de la base de datos para visualizar la estructura y las relaciones entre las diferentes tablas. Esto incluyó:
 ###### Diagrama ER (Entidad-Relación): Representación gráfica de las entidades y sus relaciones.
-![image](https://github.com/user-attachments/assets/8f9a2d1d-5918-4f86-8994-30ba2d9b0517)
+![image](https://github.com/user-attachments/assets/0065fb36-c072-45a4-9de6-faab0f28ce20)
 
 # Conexión a Power BI
 Se conectó la base de datos SQL a Power BI para la visualización y análisis de datos. Esto permitió:
