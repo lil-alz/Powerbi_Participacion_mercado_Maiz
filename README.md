@@ -39,5 +39,64 @@ Este indicador mide el volumen de importación en TN de commodities de agricultu
 
 ### P1. ¿CUALES SON LOS CINCO PRINCIPALES CLIENTES EN TERMINOS DE VOLUMEN POR PEDIDOS DE MAIZ (GRADO 1 y 2) POR AÑO? 
 
+
 ![image](https://github.com/user-attachments/assets/3436abd2-31cc-424c-be6e-d0f35887f580)
+
+### P2. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
+
+
+![image](https://github.com/user-attachments/assets/7691f478-e4e1-40eb-9a85-01f1d7261f8c)
+
+### P3. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
+
+
+![image](https://github.com/user-attachments/assets/4b9297f2-7e4f-4727-b5ca-797c6957d57f)
+
+### P4. ¿CUÁL ES EL PORCENTAJE DE PEDIDOS DE MAÍZ (TANTO DE GRADO UNO Y DOS) DE CADA TRIMESTRE POR AÑO?
+
+
+![image](https://github.com/user-attachments/assets/0b743b3a-5617-4bf6-8d42-3750de1badaf)
+
+### P5. ¿CÓMO VARIÓ EL PORCENTAJE DE PARTICIPACIÓN TRIMESTRAL EN EL MERCADO DE LA EMPRESA ABC EN COMPARACIÓN DEL AÑO 2023 Y 2024?
+
+
+![image](https://github.com/user-attachments/assets/590b9437-68ae-4938-b2f7-01903f2881e8)
+
+### P6. ¿CUÁLES SON LOS 2 PROVEEDORES MÁS IMPORTANTES EN TÉRMINOS DE VOLUMEN DE MAÍZ IMPORTADO PARA MAÍZ GRADO 1 Y MAÍZ GRADO 2 DURANTE EL 2024?
+
+El gráfico utiliza barras para visualizar el volumen de maíz importado por los dos principales proveedores en 2024, tanto para maíz grado 1 como para maíz grado 2.
+
+######Maíz Grado 1:
+######Dreyfus Commodities lidera con 348 mil toneladas.
+######Grain Norte SAC sigue con 146 mil toneladas.
+
+######Maíz Grado 2:
+######Grain Norte SAC es el principal proveedor con 405 mil toneladas.
+######Richardson International ocupa el segundo lugar con 308 mil toneladas.
+Esta visualización facilita la comparación directa entre proveedores y destaca a Dreyfus Commodities y Grain Norte SAC como los principales importadores en sus respectivas categorías.
+![image](https://github.com/user-attachments/assets/3a47afa6-4630-4414-bb26-51bf70a85381)
+
+### P7. ¿CUÁLES SON LOS 2 PROVEEDORES MÁS IMPORTANTES EN TÉRMINOS DE VOLUMEN DE MAÍZ IMPORTADO PARA MAÍZ GRADO 1 Y MAÍZ GRADO 2 DURANTE EL 2024?
+
+
+![image](https://github.com/user-attachments/assets/01e2f116-8d8a-471d-bf46-a1646b8f033d)
+
+### P8. ¿CÓMO HA SIDO LA EVOLUCIÓN DE LOS PEDIDOS TIPO CONTADO Y PEDIDOS TIPO CRÉDITO EN RELACIÓN AL TOTAL DE PEDIDOS POR TRIMESTRES A PARTIR DEL 2024?
+
+
+![image](https://github.com/user-attachments/assets/127f10e9-2839-4b7e-a661-bf84debe3973)
+
+### P9. ¿CÓMO HA SIDO LA EVOLUCIÓN DE LOS PEDIDOS TIPO CONTADO Y PEDIDOS TIPO CRÉDITO EN RELACIÓN AL TOTAL DE PEDIDOS POR TRIMESTRES A PARTIR DEL 2024?
+
+
+![image](https://github.com/user-attachments/assets/689bcb85-44f5-43e2-8d8c-27524c731ae3)
+
+### P10. ¿CUÁL ES LA VARIACIÓN DE LOS INGRESOS Y LOS COSTOS QUE INCURREN EN LA IMPORTACIÓN DEL MAIZ DURANTE LOS TRIMESTRES DEL 2023 Y 2024?
+
+
+![image](https://github.com/user-attachments/assets/d0d3423f-8b0a-4783-97a6-4d610c91bd42)
+
+
+
+
 
