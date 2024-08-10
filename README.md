@@ -66,13 +66,13 @@ Este indicador mide el volumen de importación en TN de commodities de agricultu
 
 El gráfico utiliza barras para visualizar el volumen de maíz importado por los dos principales proveedores en 2024, tanto para maíz grado 1 como para maíz grado 2.
 
-######Maíz Grado 1:
-######Dreyfus Commodities lidera con 348 mil toneladas.
-######Grain Norte SAC sigue con 146 mil toneladas.
+###### Maíz Grado 1:
+###### Dreyfus Commodities lidera con 348 mil toneladas.
+###### Grain Norte SAC sigue con 146 mil toneladas.
 
-######Maíz Grado 2:
-######Grain Norte SAC es el principal proveedor con 405 mil toneladas.
-######Richardson International ocupa el segundo lugar con 308 mil toneladas.
+###### Maíz Grado 2:
+###### Grain Norte SAC es el principal proveedor con 405 mil toneladas.
+###### Richardson International ocupa el segundo lugar con 308 mil toneladas.
 Esta visualización facilita la comparación directa entre proveedores y destaca a Dreyfus Commodities y Grain Norte SAC como los principales importadores en sus respectivas categorías.
 ![image](https://github.com/user-attachments/assets/3a47afa6-4630-4414-bb26-51bf70a85381)
 
