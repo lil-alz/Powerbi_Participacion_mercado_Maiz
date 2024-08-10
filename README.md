@@ -32,8 +32,21 @@ Este indicador mide el volumen de importación en TN de commodities de agricultu
 ![image](https://github.com/user-attachments/assets/11ef7191-bb3c-4e3a-bec7-76f4d758f52f)
 
 ## Reporte
+El reporte muestra una tabla y un gráfico de líneas para visualizar el porcentaje de participación de mercado con y sin inversión, en el contexto del volumen de importación de maíz en toneladas en Lima para la empresa ABC.
+###### -Participación con Inversión:
+###### Inició en 17% en el primer trimestre de 2024.
+###### Alcanzó el 20% al final del primer trimestre de 2025.
+###### Se proyecta un crecimiento constante, llegando a 21.9% al final del cuarto trimestre de 2026.
+###### -Participación sin Inversión:
+###### Se mantiene constante en 0.17% durante todo el período.
 
-![image](https://github.com/user-attachments/assets/2b51267b-bf68-4c2b-bff2-249b22d30146)
+##### Análisis ("What?", "So what?", "Now what?"):
+
+###### What?: Al 31 de marzo de 2024, la participación de mercado era del 17%.
+###### So what?: Estar 3% por debajo del nivel óptimo (20%) implica una pérdida de facturación de 2.18 millones de dólares trimestrales por cada punto porcentual.
+###### Now what?: Se plantea una estrategia de upselling para alcanzar el 20% diferenciando el producto como maíz orgánico, lo que podría requerir certificaciones orgánicas y costos adicionales de inspección y auditoría.
+![image](https://github.com/user-attachments/assets/92eeb075-3703-4b3b-973c-81e6577dff16)
+
 
 ## Preguntas
 
