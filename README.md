@@ -29,6 +29,7 @@ Este indicador mide el volumen de importación en TN de commodities de agricultu
 
 ## Dashboard
 
+Este indicador muestra la participación de mercado de la empresa ABC en el sector de importación de maíz en el departamento de Lima, expresado en un porcentaje del volumen total importado. Al observar el semáforo de rangos, el indicador se encuentra en la zona amarilla, con un 17.0%, lo que significa que la participación de mercado de la empresa está en un rango intermedio, entre el 17% y el 20%.
 ![image](https://github.com/user-attachments/assets/11ef7191-bb3c-4e3a-bec7-76f4d758f52f)
 
 ## Reporte
