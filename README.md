@@ -78,7 +78,8 @@ Los principales puertos desde los cuales la empresa ABC realiza importaciones so
 ### P4. ¿CUÁL ES EL PORCENTAJE DE PEDIDOS DE MAÍZ (TANTO DE GRADO UNO Y DOS) DE CADA TRIMESTRE POR AÑO?
 El gráfico de líneas nos permite visualizar la tendencia en el volumen de pedidos por trimestre y por tipo de producto. Se observa que, en general, el maíz de Grado 2 presenta una tendencia positiva. Sin embargo, existe un punto de quiebre en el primer trimestre de 2024, a partir del cual se implementa la estrategia de diferenciación y upselling para incrementar la participación en el mercado. Después de eso, se refleja la continuidad de la tendencia positiva en ambos productos hasta el último trimestre de 2024.
 
-![image](https://github.com/user-attachments/assets/0b743b3a-5617-4bf6-8d42-3750de1badaf)
+![image](https://github.com/user-attachments/assets/16d47f16-915e-4527-8ad9-d54d0f121bd4)
+
 
 ### P5. ¿CÓMO VARIÓ EL PORCENTAJE DE PARTICIPACIÓN TRIMESTRAL EN EL MERCADO DE LA EMPRESA ABC EN COMPARACIÓN DEL AÑO 2023 Y 2024?
 Se han utilizado tablas, gráficos de línea y circular y tarjetas que explican la variación del porcentaje de participación. 
