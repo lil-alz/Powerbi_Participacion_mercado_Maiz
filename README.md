@@ -71,6 +71,7 @@ Esta visualización facilita la comparación directa entre el maiz de grado 1 y 
 ![image](https://github.com/user-attachments/assets/7691f478-e4e1-40eb-9a85-01f1d7261f8c)
 
 ### P3. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
+El gráfico de barras nos permite comparar e identificar rápidamente cuál es el top 3 se puertos con mayor volumen de importación de maíz.
 Los principales puertos desde los cuales la empresa ABC realiza importaciones son: P Thunder Bay, P. Houston y P. Vancouver. De los cuales P Thunder Bay, P. Vancouver y P. Prince  son los principales puertos donde se importa el Maíz de Grado 2. Mientras que el maíz de grado 1 es proveniente de los puertos P. Houston, P. Thunder Bay y P. Buenos aires 
 
 ![image](https://github.com/user-attachments/assets/4b9297f2-7e4f-4727-b5ca-797c6957d57f)
