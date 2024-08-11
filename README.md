@@ -54,7 +54,7 @@ El reporte muestra una tabla y un gráfico de líneas para visualizar el porcent
 ### P1. ¿CUALES SON LOS CINCO PRINCIPALES CLIENTES EN TERMINOS DE VOLUMEN POR PEDIDOS DE MAIZ (GRADO 1 y 2) POR AÑO? 
 Se utilizaron  dos gráficos de barras: agrupadas y apiladas y una tabla.
 
-Para profundizar en la pregunta, se presenta un listado que separa el volumen de los últimos cuatro semestres de cada cliente. De ello, se desprende un gráfico de barras apiladas que compila el volumen de pedidos del último año de cada cliente. El top 5 está conformado por Gustavo Salazar, Ricardo Jiménez, Jorge Vargas, Renato López y José Landa. 
+Se presenta un listado que separa el volumen de los últimos cuatro semestres de cada cliente. De ello, se desprende un gráfico de barras apiladas que compila el volumen de pedidos del último año de cada cliente. El top 5 está conformado por Gustavo Salazar, Ricardo Jiménez, Jorge Vargas, Renato López y José Landa. 
 Adicionalmente, se presenta una recopilación histórica de los clientes ordenados por mayor volumen de pedidos en un gráfico de barras agrupadas donde lidera Gustavo Salazar con casi 39 mil toneladas de maíz de Grado 1 y cerca de 72 mil toneladas de Grado 2.
 
 ![image](https://github.com/user-attachments/assets/3436abd2-31cc-424c-be6e-d0f35887f580)
