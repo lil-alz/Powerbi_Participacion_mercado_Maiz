@@ -59,7 +59,15 @@ Adicionalmente, se presenta una recopilación histórica de los clientes ordenad
 ![image](https://github.com/user-attachments/assets/3436abd2-31cc-424c-be6e-d0f35887f580)
 
 ### P2. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
+Se utilizo el gráfico lineal para visualizar el volumen de maiz importado por trimestre,
+tanto para maíz grado 1 y de grado 2.
+###### Maíz Grado 1:
+###### Se incorporo a partir del semestre 2024-1, con un volumen trimestral de 102 mil toneladas y terminando el último trimestre del 2024 con 146 mil toneladas.
 
+###### Maíz Grado 2:
+###### Para el primer trimestre del 2024 inicio com 149 mil toneladas y termino el año con 295 mil toneladas.
+
+Esta visualización facilita la comparación directa entre el maiz de grado 1 y 2 y destaca al maíz de Grado 2 como principal producto importador.
 
 ![image](https://github.com/user-attachments/assets/7691f478-e4e1-40eb-9a85-01f1d7261f8c)
 
