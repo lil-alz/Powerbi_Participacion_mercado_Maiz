@@ -51,7 +51,7 @@ El reporte muestra una tabla y un gráfico de líneas para visualizar el porcent
 ## Preguntas
 
 ### P1. ¿CUALES SON LOS CINCO PRINCIPALES CLIENTES EN TERMINOS DE VOLUMEN POR PEDIDOS DE MAIZ (GRADO 1 y 2) POR AÑO? 
-Se utilizaron tablas y dos gráficos de barras agrupadas y apiladas. 
+Se utilizaron  dos gráficos de barras: agrupadas y apiladas y una tabla.
 
 Para profundizar en la pregunta, se presenta un listado que separa el volumen de los últimos cuatro semestres de cada cliente. De ello, se desprende un gráfico de barras apiladas que compila el volumen de pedidos del último año de cada cliente. El top 5 está conformado por Gustavo Salazar, Ricardo Jiménez, Jorge Vargas, Renato López y José Landa. 
 Adicionalmente, se presenta una recopilación histórica de los clientes ordenados por mayor volumen de pedidos en un gráfico de barras agrupadas donde lidera Gustavo Salazar con casi 39 mil toneladas de maíz de Grado 1 y cerca de 72 mil toneladas de Grado 2.
@@ -59,8 +59,7 @@ Adicionalmente, se presenta una recopilación histórica de los clientes ordenad
 ![image](https://github.com/user-attachments/assets/3436abd2-31cc-424c-be6e-d0f35887f580)
 
 ### P2. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
-Se utilizo el gráfico lineal para visualizar el volumen de maiz importado por trimestre,
-tanto para maíz grado 1 y de grado 2.
+Se utilizo el gráfico de líneas para visualizar el volumen de maiz importado por trimestre, tanto para maíz grado 1 y de grado 2.
 ###### Maíz Grado 1:
 ###### Se incorporo a partir del semestre 2024-1, con un volumen trimestral de 102 mil toneladas y terminando el último trimestre del 2024 con 146 mil toneladas.
 
