@@ -71,7 +71,7 @@ Esta visualización facilita la comparación directa entre el maiz de grado 1 y 
 ![image](https://github.com/user-attachments/assets/7691f478-e4e1-40eb-9a85-01f1d7261f8c)
 
 ### P3. ¿CUÁL ES EL VOLUMEN TOTAL DE IMPORTACIÓN DE MAÍZ (TANTO DE GRADO UNO COMO DE GRADO DOS) DE CADA TRIMESTRE POR AÑO?
-
+Los principales puertos desde los cuales la empresa ABC realiza importaciones son: P Thunder Bay, P. Houston y P. Vancouver. De los cuales P Thunder Bay, P. Vancouver y P. Prince  son los principales puertos donde se importa el Maíz de Grado 2. Mientras que el maíz de grado 1 es proveniente de los puertos P. Houston, P. Thunder Bay y P. Buenos aires 
 
 ![image](https://github.com/user-attachments/assets/4b9297f2-7e4f-4727-b5ca-797c6957d57f)
 
@@ -118,7 +118,8 @@ El gráfico utiliza líneas para visualizar la evolución de los pedidos tipo co
 ### P9. ¿CUÁL ES LA CORRELACIÓN ENTRE EL VOLUMEN DE IMPORTACIÓN Y EL VOLUMEN DE PEDIDOS DURANTE LOS TRIMESTRES DEL 2023 Y 2024?
 El gráfico de dispersión nos permite visualizar la relación entre dos variables y detectar patrones. En este caso, se presenta una correlación positiva, es decir, a medida que el volumen de pedidos por producto aumenta, el volumen de importación también se incrementa.
 
-![image](https://github.com/user-attachments/assets/689bcb85-44f5-43e2-8d8c-27524c731ae3)
+![image](https://github.com/user-attachments/assets/252d8b71-d249-4911-973b-ab6bcfb3daf2)
+
 
 ### P10. ¿CUÁL ES LA VARIACIÓN DE LOS INGRESOS Y LOS COSTOS QUE INCURREN EN LA IMPORTACIÓN DEL MAIZ DURANTE LOS TRIMESTRES DEL 2023 Y 2024?
 El gráfico más apropiado para visualizar de manera correcta una fluctuación es el de cascadas y, para obtener la información, hemos utilizado una columna calculada para poder parametrizar las diferencias respecto a los ingresos y costos de trimestre de los años 2023 y 2024.
