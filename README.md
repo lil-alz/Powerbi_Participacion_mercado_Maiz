@@ -109,9 +109,24 @@ El gráfico utiliza líneas para visualizar la evolución de los pedidos tipo co
 ![image](https://github.com/user-attachments/assets/689bcb85-44f5-43e2-8d8c-27524c731ae3)
 
 ### P10. ¿CUÁL ES LA VARIACIÓN DE LOS INGRESOS Y LOS COSTOS QUE INCURREN EN LA IMPORTACIÓN DEL MAIZ DURANTE LOS TRIMESTRES DEL 2023 Y 2024?
+El gráfico más apropiado para visualizar de manera correcta una fluctuación es el de cascadas y, para obtener la información, hemos utilizado una columna calculada para poder parametrizar las diferencias respecto a los ingresos y costos de trimestre de los años 2023 y 2024.
+
+###### Para lo cual obtenemos que en el periodo 2023:
+###### El primer trimestre tuvo un aumento de 48,000 respecto al trimestre anterior.
+###### El segundo trimestre tuvo un aumento de 94,000 respecto al trimestre anterior.
+###### El tercer trimestre tuvo un aumento de 26,000 respecto al trimestre anterior.
+###### El cuarto trimestre tuvo una disminución de 12,000 respecto al trimestre anterior.
 
 
-![image](https://github.com/user-attachments/assets/d0d3423f-8b0a-4783-97a6-4d610c91bd42)
+Gracias al gráfico que estamos presentando, podemos observar fácilmente el aumento acumulado de cada uno de los periodos, teniendo como sobresaliente al primer trimestre del 2024.
+
+![image](https://github.com/user-attachments/assets/6947d246-d4ec-406d-8bbd-3cc1ece13a0a)
+###### Respecto al periodo 2024:
+###### El primer trimestre tuvo un aumento de 251,000 respecto al trimestre anterior.
+###### El segundo trimestre tuvo un aumento de 87,000 respecto al trimestre anterior.
+###### El tercer trimestre tuvo un aumento de 64,000 respecto al trimestre anterior.
+###### El cuarto trimestre tuvo un aumento de 39,000 respecto al trimestre anterior.
+![image](https://github.com/user-attachments/assets/6821428f-380e-477a-a36e-cb1e82fe76f7)
 
 
 
