@@ -105,7 +105,15 @@ Esta visualización facilita la comparación directa entre proveedores y destaca
 ![image](https://github.com/user-attachments/assets/3a47afa6-4630-4414-bb26-51bf70a85381)
 
 ### P7. ¿CUÁLES SON LOS 2 PROVEEDORES MÁS IMPORTANTES EN TÉRMINOS DE VOLUMEN DE MAÍZ IMPORTADO PARA MAÍZ GRADO 1 Y MAÍZ GRADO 2 DURANTE EL 2024?
+Se utilizo el gráfico de barras para visualizar el porcentaje de participación trimestral por cada producto, según el país de origen.
+###### Producto 1:
+Durante el año 2024 (incorporación del producto organico), se observa el crecimiento porcentual por cada trimestre. Llegando al siguiente trimestre con 7.61% y finalizando con 11.66% proveniente de Argentina.
+###### Producto 2:
+También tuvo un incremento porcentual, pasando de 7.12% hasta 10.20%, proveniente de EE.UU.
+###### Producto 3:
+Del mismo modo, se incremento hasta finalizar el año con un 8.94%, habiendo iniciado con un 5.8%, proveniente de Estados Unidos.
 
+Esta visualización facilita la comparación directa entre productos según su país de origen.
 
 ![image](https://github.com/user-attachments/assets/01e2f116-8d8a-471d-bf46-a1646b8f033d)
 
