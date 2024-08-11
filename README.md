@@ -12,9 +12,9 @@ Se elaboró un diagrama de la base de datos para visualizar la estructura y las 
 
 # Conexión a Power BI
 Se conectó la base de datos SQL a Power BI para la visualización y análisis de datos. Esto permitió:
-###### Extracción de Datos: Importación de datos relevantes desde la base de datos.
-###### Transformación de Datos: Limpieza y transformación de datos para adecuarlos al análisis.
-###### Creación de Visualizaciones: Desarrollo de gráficos y dashboards interactivos en Power BI.
+###### Extraer Datos: Importación de datos relevantes desde la base de datos.
+###### Transformar Datos: Limpieza y transformación de datos para adecuarlos al análisis.
+###### Crear Visualizaciones: Desarrollo de gráficos y dashboards interactivos en Power BI.
 
 ## Business Case
 Para crear el Indicador Trimestral de Participación de Mercado, se utilizó un business case que incluyó:
