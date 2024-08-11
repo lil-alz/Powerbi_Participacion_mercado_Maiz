@@ -118,14 +118,13 @@ El gráfico más apropiado para visualizar de manera correcta una fluctuación e
 ###### El cuarto trimestre tuvo una disminución de 12,000 respecto al trimestre anterior.
 
 
-Gracias al gráfico que estamos presentando, podemos observar fácilmente el aumento acumulado de cada uno de los periodos, teniendo como sobresaliente al primer trimestre del 2024.
-
 ![image](https://github.com/user-attachments/assets/6947d246-d4ec-406d-8bbd-3cc1ece13a0a)
 ###### Respecto al periodo 2024:
 ###### El primer trimestre tuvo un aumento de 251,000 respecto al trimestre anterior.
 ###### El segundo trimestre tuvo un aumento de 87,000 respecto al trimestre anterior.
 ###### El tercer trimestre tuvo un aumento de 64,000 respecto al trimestre anterior.
 ###### El cuarto trimestre tuvo un aumento de 39,000 respecto al trimestre anterior.
+Gracias al gráfico que estamos presentando, podemos observar fácilmente el aumento acumulado de cada uno de los periodos, teniendo como sobresaliente al primer trimestre del 2024.
 ![image](https://github.com/user-attachments/assets/6821428f-380e-477a-a36e-cb1e82fe76f7)
 
 
