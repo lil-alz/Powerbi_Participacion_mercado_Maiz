@@ -51,6 +51,9 @@ El reporte muestra una tabla y un gráfico de líneas para visualizar el porcent
 ## Preguntas
 
 ### P1. ¿CUALES SON LOS CINCO PRINCIPALES CLIENTES EN TERMINOS DE VOLUMEN POR PEDIDOS DE MAIZ (GRADO 1 y 2) POR AÑO? 
+Se utilizaron tablas y dos gráficos de barras agrupadas y apiladas. 
+En primera instancia, se presenta una recopilación histórica de los clientes ordenados por mayor volumen de pedidos en un gráfico de barras agrupadas donde lidera Gustavo Salazar con casi 39 mil toneladas de maíz de Grado 1 y cerca de 72 mil toneladas de Grado 2.
+Para profundizar en la pregunta, se presenta un listado que separa el volumen de los últimos cuatro semestres de cada cliente. De ello, se desprende un gráfico de barras apiladas que compila el volumen de pedidos del último año de cada cliente. El top 5 está conformado por Gustavo Salazar, Ricardo Jiménez, Jorge Vargas, Renato López y José Landa. 
 
 
 ![image](https://github.com/user-attachments/assets/3436abd2-31cc-424c-be6e-d0f35887f580)
@@ -66,11 +69,13 @@ El reporte muestra una tabla y un gráfico de líneas para visualizar el porcent
 ![image](https://github.com/user-attachments/assets/4b9297f2-7e4f-4727-b5ca-797c6957d57f)
 
 ### P4. ¿CUÁL ES EL PORCENTAJE DE PEDIDOS DE MAÍZ (TANTO DE GRADO UNO Y DOS) DE CADA TRIMESTRE POR AÑO?
-
+El gráfico de líneas nos permite visualizar la tendencia en el volumen de pedidos por trimestre y por tipo de producto. Se observa que, en general, el maíz de Grado 2 presenta una tendencia positiva. Sin embargo, existe un punto de quiebre en el primer trimestre de 2024, a partir del cual se implementa la estrategia de diferenciación y upselling para incrementar la participación en el mercado. Después de eso, se refleja la continuidad de la tendencia positiva en ambos productos hasta el último trimestre de 2024.
 
 ![image](https://github.com/user-attachments/assets/0b743b3a-5617-4bf6-8d42-3750de1badaf)
 
 ### P5. ¿CÓMO VARIÓ EL PORCENTAJE DE PARTICIPACIÓN TRIMESTRAL EN EL MERCADO DE LA EMPRESA ABC EN COMPARACIÓN DEL AÑO 2023 Y 2024?
+Se han utilizado tablas, gráficos de línea y circular y tarjetas que explican la variación del porcentaje de participación. 
+Tanto el gráfico de línea, gráfico circular y tabla reúnen información dinámica del porcentaje de participación de mercado de la empresa ABC. En el tercer trimestre del 2023 se tuvo el menor porcentaje de participación de mercado con un 16.84% y se proyecta una participación de mercado del 19.50% para el último trimestre del 2024. No obstante, se resalta una variación porcentual nula entre un año y otro a nivel trimestral. 
 
 
 ![image](https://github.com/user-attachments/assets/590b9437-68ae-4938-b2f7-01903f2881e8)
@@ -103,8 +108,8 @@ El gráfico utiliza líneas para visualizar la evolución de los pedidos tipo co
 
 ![image](https://github.com/user-attachments/assets/127f10e9-2839-4b7e-a661-bf84debe3973)
 
-### P9. ¿CÓMO HA SIDO LA EVOLUCIÓN DE LOS PEDIDOS TIPO CONTADO Y PEDIDOS TIPO CRÉDITO EN RELACIÓN AL TOTAL DE PEDIDOS POR TRIMESTRES A PARTIR DEL 2024?
-
+### P9. ¿CUÁL ES LA CORRELACIÓN ENTRE EL VOLUMEN DE IMPORTACIÓN Y EL VOLUMEN DE PEDIDOS DURANTE LOS TRIMESTRES DEL 2023 Y 2024?
+El gráfico de dispersión nos permite visualizar la relación entre dos variables y detectar patrones. En este caso, se presenta una correlación positiva, es decir, a medida que el volumen de pedidos por producto aumenta, el volumen de importación también se incrementa.
 
 ![image](https://github.com/user-attachments/assets/689bcb85-44f5-43e2-8d8c-27524c731ae3)
 
