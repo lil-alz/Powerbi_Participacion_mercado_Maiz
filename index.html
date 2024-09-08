@@ -3,19 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web con Bootstrap</title>
+    <title>Proyecto Business Analytics</title>
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     
     <!-- Estilos personalizados -->
     <style>
+        body {
+            /* Cargar la imagen de fondo desde GitHub */
+            background-image: url('https://raw.githubusercontent.com/lil-alz/Powerbi_Participacion_mercado_Maiz/main/images/Home.png');
+            background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            background-attachment: fixed; /* La imagen se queda fija al hacer scroll */
+        }
+
         .navbar {
             margin-bottom: 30px;
         }
+
         .gallery img {
             width: 100%;
             height: auto;
+        }
+
+        /* Agregar color de fondo a los contenedores para que el texto sea legible sobre la imagen */
+        .container, .navbar {
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente */
         }
     </style>
 </head>
@@ -44,29 +58,8 @@
         </div>
     </nav>
 
-    <!-- Contenido Principal -->
-    <div class="container">
-        <div class="text-center">
-            <h1>Bienvenido a mi página web</h1>
-            <p>Esta página está diseñada con Bootstrap y JavaScript para ser responsiva y moderna.</p>
-        </div>
-    </div>
 
-    <!-- Galería de imágenes -->
-    <div class="container gallery mt-5">
-        <h2 class="text-center">Galería de Imágenes</h2>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-4">
-                <img src="https://via.placeholder.com/350x250" class="img-fluid" alt="Imagen 1">
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <img src="https://via.placeholder.com/350x250" class="img-fluid" alt="Imagen 2">
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <img src="https://via.placeholder.com/350x250" class="img-fluid" alt="Imagen 3">
-            </div>
-        </div>
-    </div>
+    
 
     <!-- JavaScript de Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
