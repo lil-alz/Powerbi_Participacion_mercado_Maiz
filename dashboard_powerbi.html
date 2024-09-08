@@ -25,7 +25,30 @@
 
         /* Estilo para las flechas de navegación */
         .carousel-control-prev, .carousel-control-next {
-            width: 5%; /* Ajusta el tamaño de las flechas */
+            display: none; /* Ocultamos las flechas laterales */
+        }
+
+        /* Centrar las flechas de navegación en la parte inferior */
+        .carousel-controls {
+            position: absolute;
+            bottom: 20px; /* Ajustar para cambiar la altura de las flechas */
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+        }
+
+        .carousel-controls button {
+            margin: 0 10px; /* Espacio entre las flechas */
+            background-color: rgba(0, 0, 0, 0.6);
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+
+        .carousel-controls button:hover {
+            background-color: rgba(0, 0, 0, 0.8);
         }
 
         .carousel-caption {
@@ -39,7 +62,7 @@
 <body>
 
     <!-- Carrusel de Bootstrap -->
-    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
         <div class="carousel-inner">
             <!-- Diapositiva 1 -->
             <div class="carousel-item active">
@@ -132,18 +155,21 @@
             </div>
         </div>
 
-        <!-- Flechas para navegar entre las diapositivas -->
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Anterior</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Siguiente</span>
-        </button>
+        <!-- Flechas de navegación centradas en la parte inferior -->
+        <div class="carousel-controls">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                &#9664; <!-- Código HTML para la flecha izquierda -->
+                <span class="visually-hidden">Anterior</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                &#9654; <!-- Código HTML para la flecha derecha -->
+                <span class="visually-hidden">Siguiente</span>
+            </button>
+        </div>
     </div>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
