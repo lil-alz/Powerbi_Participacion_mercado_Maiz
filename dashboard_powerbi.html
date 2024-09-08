@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard PowerBI</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <style>
+        /* Ajustes adicionales al estilo del carrusel */
+        .carousel-item {
+            height: 80vh; /* Define la altura de las slides */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f8f9fa; /* Fondo claro por defecto */
+        }
+
+        .carousel-item img {
+            max-height: 100%; /* Ajusta las imágenes al tamaño del slide */
+            max-width: 100%;
+        }
+
+        /* Estilo para las flechas de navegación */
+        .carousel-control-prev, .carousel-control-next {
+            width: 5%; /* Ajusta el tamaño de las flechas */
+        }
+
+        .carousel-caption {
+            background-color: rgba(0, 0, 0, 0.6); /* Fondo oscuro con transparencia */
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Carrusel de Bootstrap -->
+    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <!-- Diapositiva 1 -->
+            <div class="carousel-item active">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+1" class="d-block w-100" alt="Diapositiva 1">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 1</h5>
+                    <p>Descripción o información relevante para la diapositiva 1.</p>
+                </div>
+            </div>
+            <!-- Diapositiva 2 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+2" class="d-block w-100" alt="Diapositiva 2">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 2</h5>
+                    <p>Descripción o información relevante para la diapositiva 2.</p>
+                </div>
+            </div>
+            <!-- Diapositiva 3 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+3" class="d-block w-100" alt="Diapositiva 3">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 3</h5>
+                    <p>Descripción o información relevante para la diapositiva 3.</p>
+                </div>
+            </div>
+            <!-- Añadir más diapositivas hasta llegar a 10 -->
+            
+            <!-- Diapositiva 4 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+4" class="d-block w-100" alt="Diapositiva 4">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 4</h5>
+                    <p>Descripción o información relevante para la diapositiva 4.</p>
+                </div>
+            </div>
+            
+            <!-- Diapositiva 5 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+5" class="d-block w-100" alt="Diapositiva 5">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 5</h5>
+                    <p>Descripción o información relevante para la diapositiva 5.</p>
+                </div>
+            </div>
+
+            <!-- Repite para las demás diapositivas hasta la 10 -->
+            <!-- Diapositiva 6 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+6" class="d-block w-100" alt="Diapositiva 6">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 6</h5>
+                    <p>Descripción o información relevante para la diapositiva 6.</p>
+                </div>
+            </div>
+
+            <!-- Diapositiva 7 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+7" class="d-block w-100" alt="Diapositiva 7">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 7</h5>
+                    <p>Descripción o información relevante para la diapositiva 7.</p>
+                </div>
+            </div>
+
+            <!-- Diapositiva 8 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+8" class="d-block w-100" alt="Diapositiva 8">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 8</h5>
+                    <p>Descripción o información relevante para la diapositiva 8.</p>
+                </div>
+            </div>
+
+            <!-- Diapositiva 9 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+9" class="d-block w-100" alt="Diapositiva 9">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 9</h5>
+                    <p>Descripción o información relevante para la diapositiva 9.</p>
+                </div>
+            </div>
+
+            <!-- Diapositiva 10 -->
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/1200x600?text=Diapositiva+10" class="d-block w-100" alt="Diapositiva 10">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Texto para la diapositiva 10</h5>
+                    <p>Descripción o información relevante para la diapositiva 10.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Flechas para navegar entre las diapositivas -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Siguiente</span>
+        </button>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
