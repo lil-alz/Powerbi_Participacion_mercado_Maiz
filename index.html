@@ -16,6 +16,12 @@
             background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
             background-position: center; /* Centra la imagen */
             background-attachment: fixed; /* La imagen se queda fija al hacer scroll */
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Ocupa toda la altura de la ventana */
+            display: flex;
+            justify-content: center;
+            align-items: flex-end; /* Los elementos se alinean al final (parte inferior) */
         }
 
         /* Estilo personalizado para los botones */
@@ -25,26 +31,19 @@
             font-size: 18px;
         }
 
-        /* Centrando el contenido */
-        .center-content {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Ocupa toda la altura de la ventana */
+        /* Contenedor de los botones */
+        .button-container {
             text-align: center;
-            background-color: rgba(255, 255, 255, 0.7); /* Fondo semi-transparente detrás de los botones */
+            margin-bottom: 30px; /* Ajusta la distancia del borde inferior */
         }
     </style>
 </head>
 <body>
 
-    <!-- Contenido Principal -->
-    <div class="center-content">
-        <!-- Botones personalizados -->
-        <div>
-            <a href="#" class="btn btn-primary btn-custom">Consultas SQL</a>
-            <a href="#" class="btn btn-secondary btn-custom">Dashboard PowerBI</a>
-        </div>
+    <!-- Contenedor de los botones en la parte inferior -->
+    <div class="button-container">
+        <a href="#" class="btn btn-primary btn-custom">Consultas SQL</a>
+        <a href="#" class="btn btn-secondary btn-custom">Dashboard PowerBI</a>
     </div>
 
     <!-- JavaScript de Bootstrap -->
@@ -57,3 +56,4 @@
     </script>
 </body>
 </html>
+
